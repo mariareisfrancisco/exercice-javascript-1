@@ -63,3 +63,19 @@ h1 {
 .box.trigger-all-self {
   background: var(--blue-color);
 }
+
+.one.blue {
+  background-color: var(--blue-color);
+}
+
+.two.red {
+  background-color: var(--red-color);
+}
+
+.box.is-hidden {
+  display: none;
+}
+
+.six.green {
+  background-color: var(--green-color);
+}
